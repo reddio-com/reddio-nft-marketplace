@@ -1,6 +1,6 @@
-# NFT marketplace bootstrap on Ethererum
+# NFT marketplace bootstrap on Reddio
 
-![This repo provides you a NFT marketplace bootstrap on Ethereum.
+![This repo provides you a NFT marketplace bootstrap on Reddio.
 ](demo.png)
 
 The technologies used in this project are [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [HardHat](https://hardhat.org/), [Solidity](https://docs.soliditylang.org/en/v0.8.5/), and [Ethers.js](https://docs.ethers.io/v5/).
@@ -14,11 +14,11 @@ The technologies used in this project are [React](https://reactjs.org/), [Next.j
 First, clone the repo and install the dependencies:
 
 ```sh
-git clone https://github.com/reddio-com/ethereum-nft-marketplace.git
+git clone https://github.com/reddio-com/reddio-nft-marketplace.git
 ```
 
 ```sh
-cd ethereum-nft-marketplace
+cd reddio-nft-marketplace
 ```
 
 Update node to the version you have in package.json file.
